@@ -14,7 +14,7 @@
 
             media = (x + y) / 2;
 
-            Console.WriteLine("media is :" + media);
+            Console.WriteLine("media is :" + media );
 
             return;
 
